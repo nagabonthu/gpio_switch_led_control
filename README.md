@@ -17,7 +17,7 @@ To implement switch-based conditional LED control logic using direct register-le
 
 ##  Hardware
 
-- LPC21xx (ARM7TDMI) Microcontroller  
+- LPC2129 (ARM7TDMI) Microcontroller  
 - 2 Push Button Switches  
 - 2 LEDs  
 - Regulated Power Supply
